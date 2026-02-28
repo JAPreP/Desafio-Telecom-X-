@@ -13,4 +13,9 @@ El análisis fue desarrollado en Python 3.x utilizando las siguientes librerías
 1. Clonar el repositorio.
 2. Asegurarse de tener instalado Python y las dependencias:
    ```bash
+
    pip install pandas matplotlib seaborn
+
+
+   Autor : Julian Andres Preciado
+   Fecha : Febrero 2026 
